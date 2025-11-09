@@ -1,0 +1,5 @@
+{
+  "name": "AI Invoice Generator",
+  "description": "An intelligent invoice generator that allows users to create, manage, and download professional invoices as PDFs. Features include dynamic item rows, automatic total calculation, and local storage persistence.",
+  "requestFramePermissions": []
+}

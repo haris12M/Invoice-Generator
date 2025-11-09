@@ -1,0 +1,16 @@
+{
+  "short_name": "Invoice Pro",
+  "name": "AI Invoice Generator",
+  "description": "An intelligent invoice generator that allows users to create, manage, and download professional invoices as PDFs.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
